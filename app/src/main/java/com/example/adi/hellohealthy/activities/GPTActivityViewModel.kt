@@ -15,7 +15,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
 // Ключ для доступа к API OpenAI GPT
-const val CHAT_GPT_API_KEY = "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"
+const val CHAT_GPT_API_KEY = "тут ключ GPT"
 
 // ViewModel для активности GPTActivity
 class GPTActivityViewModel : ViewModel() {
